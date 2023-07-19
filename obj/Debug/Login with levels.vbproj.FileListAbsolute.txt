@@ -1,0 +1,106 @@
+D:\ProjectCode\Login with levels\bin\Debug\Login with levels.exe.config
+D:\ProjectCode\Login with levels\bin\Debug\Login with levels.exe
+D:\ProjectCode\Login with levels\bin\Debug\Login with levels.pdb
+D:\ProjectCode\Login with levels\bin\Debug\Login with levels.xml
+D:\ProjectCode\Login with levels\obj\Debug\Login with levels.vbprojAssemblyReference.cache
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.Login.resources
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.Resources.resources
+D:\ProjectCode\Login with levels\obj\Debug\Login with levels.vbproj.GenerateResource.cache
+D:\ProjectCode\Login with levels\obj\Debug\Login with levels.exe
+D:\ProjectCode\Login with levels\obj\Debug\Login with levels.xml
+D:\ProjectCode\Login with levels\obj\Debug\Login with levels.pdb
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.MainFormAdmin.resources
+D:\ProjectCode\Login with levels\bin\Debug\stock.accdb
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.formstockedit.resources
+D:\ProjectCode\Login with levels\bin\Debug\AWSSDK.Core.dll
+D:\ProjectCode\Login with levels\bin\Debug\AWSSDK.SimpleNotificationService.dll
+D:\ProjectCode\Login with levels\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ProjectCode\Login with levels\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectCode\Login with levels\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectCode\Login with levels\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectCode\Login with levels\bin\Debug\Twilio.dll
+D:\ProjectCode\Login with levels\bin\Debug\AWSSDK.Core.pdb
+D:\ProjectCode\Login with levels\bin\Debug\AWSSDK.Core.xml
+D:\ProjectCode\Login with levels\bin\Debug\AWSSDK.SimpleNotificationService.pdb
+D:\ProjectCode\Login with levels\bin\Debug\AWSSDK.SimpleNotificationService.xml
+D:\ProjectCode\Login with levels\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ProjectCode\Login with levels\bin\Debug\Newtonsoft.Json.xml
+D:\ProjectCode\Login with levels\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ProjectCode\Login with levels\bin\Debug\Twilio.xml
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.formsms.resources
+D:\ProjectCode\Login with levels\obj\Debug\Login with levels.vbproj.CopyComplete
+D:\ProjectCode\Login with levels\bin\Debug\MySql.Data.dll
+D:\ProjectCode\Login with levels\bin\Debug\System.Buffers.dll
+D:\ProjectCode\Login with levels\bin\Debug\System.Memory.dll
+D:\ProjectCode\Login with levels\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjectCode\Login with levels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjectCode\Login with levels\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProjectCode\Login with levels\bin\Debug\Google.Protobuf.dll
+D:\ProjectCode\Login with levels\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProjectCode\Login with levels\bin\Debug\Renci.SshNet.dll
+D:\ProjectCode\Login with levels\bin\Debug\MySql.Data.xml
+D:\ProjectCode\Login with levels\bin\Debug\System.Buffers.xml
+D:\ProjectCode\Login with levels\bin\Debug\System.Memory.xml
+D:\ProjectCode\Login with levels\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjectCode\Login with levels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjectCode\Login with levels\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.formeditusers.resources
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.formcustomers.resources
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.frmcafe.resources
+D:\ProjectCode\Login with levels\bin\Debug\cafe.accdb
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.formrepairs.resources
+D:\ProjectCode\Login with levels\obj\Debug\Login_with_levels.frmOrder.resources
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\cafe.accdb
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\stock.accdb
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Login with levels.exe.config
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Login with levels.exe
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Login with levels.pdb
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Login with levels.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\AWSSDK.Core.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\AWSSDK.SimpleNotificationService.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\MySql.Data.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Buffers.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Memory.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Numerics.Vectors.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Twilio.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Google.Protobuf.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\BouncyCastle.Crypto.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Renci.SshNet.dll
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\AWSSDK.Core.pdb
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\AWSSDK.Core.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\AWSSDK.SimpleNotificationService.pdb
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\AWSSDK.SimpleNotificationService.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\MySql.Data.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Newtonsoft.Json.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Buffers.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Memory.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Numerics.Vectors.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\Twilio.xml
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login with levels.vbprojAssemblyReference.cache
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.formcustomers.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.formeditusers.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.formrepairs.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.formsms.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.formstockedit.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.frmcafe.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.Login.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.MainFormAdmin.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.Resources.resources
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login with levels.vbproj.GenerateResource.cache
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login with levels.vbproj.CopyComplete
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login with levels.exe
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login with levels.xml
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login with levels.pdb
+D:\ProjectCode\FINAL\Login with levels\obj\Debug\Login_with_levels.formorders.resources
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\orders.accdb
+D:\ProjectCode\FINAL\Login with levels\bin\Debug\repairs.accdb
